@@ -2,7 +2,8 @@
 /**
  * @author Abhishek Jain
  * Thread Synchronization means-
- * When one thread is acting on an object then another thread cannot (blocked) act on the same object till the completion of first thread operation.
+ * When one thread is acting on an object then another thread cannot (blocked) act on the same object
+ * till the completion of first thread operation.
  *
  * Below code is the implementation for same.
  */
