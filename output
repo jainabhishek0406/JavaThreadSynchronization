@@ -1,0 +1,10 @@
+
+######## Thread Synchronization Implementation ######## 
+
+Booking request from passenger FirstPerson_ABC
+At this point, Total available berth count is = 1
+1 Berths reserved for FirstPerson_ABC
+
+Booking request from passenger SecondPerson_XYZ
+At this point, Total available berth count is = 0
+Sorry SecondPerson_XYZ..., No berths available!!!!, All berths are already booked.
